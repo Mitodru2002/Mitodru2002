@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mitodru Mridha</h1>
 <h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mitodru2002&label=Profile%20views&color=0e75b6&style=flat" alt="mitodru2002" /> </p>
 
