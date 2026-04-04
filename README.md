@@ -2,10 +2,10 @@
 <h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI | Turning Data into Insights 📊</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mitodru&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/HKnteMv72UdpJTFS8"/>
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning & Advanced SQL**
 - 💬 Ask me about **Python, SQL, Power BI, Excel**
@@ -13,18 +13,12 @@
 - 📫 How to reach me **mitodrumridha@gmail.com**
 - ⚡ Fun fact **I turn messy data into meaningful insights 📊**
 
-
+<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/mitodru-mridha-a28a66256" target="blank">
+<a href="https://www.linkedin.com/in/mitodru-mridha-a28a66256" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/your-kaggle" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/your-instagram" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
 
