@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mitodru&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/HKnteMv72UdpJTFS8"/>
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning & Advanced SQL**
 - 💬 Ask me about **Python, SQL, Power BI, Excel**
