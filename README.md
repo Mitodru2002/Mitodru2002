@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning **Data Analytics, Machine Learning & Advanced SQL**
 - 💬 Ask me about **Python, SQL, Power BI, Excel**
 - 📊 Interested in **Data Analysis, Visualization & Business Insights**
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **mitodrumridha@gmail.com**
 - ⚡ Fun fact **I turn messy data into meaningful insights 📊**
 
-<br><br><br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
