@@ -13,8 +13,6 @@
 - 📫 How to reach me **mitodrumridha@gmail.com**
 - ⚡ Fun fact **I turn messy data into meaningful insights 📊**
 
-<br><br><br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mitodru-mridha-a28a66256" target="blank">
