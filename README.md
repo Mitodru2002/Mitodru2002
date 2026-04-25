@@ -28,14 +28,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> </a> 
 <a href="https://powerbi.microsoft.com/" target="_blank"> 
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://numpy.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> 
-</a> 
-<a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/> 
-</a> 
+</a> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>  </a> 
+<a href="https://numpy.org/" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>  </a> <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40" height="40"/> </a> 
 </p>
